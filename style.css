@@ -11,7 +11,8 @@ body {
 }
 
 button {
-  font-size: 7px;
+  font-size: 14px;
+  margin: 5px;
 }
 
 #main-content {
@@ -25,6 +26,7 @@ button {
   padding: 15px 20px 18px 18px;
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
+  margin-top: 20px;
 }
 
 #list {
@@ -34,4 +36,13 @@ button {
   padding: 15px 20px 18px 18px;
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
+}
+
+#comment-form {
+  margin-top: 10px;
+}
+
+#comment-input {
+  width: 150px;
+  margin-right: 10px;
 }
